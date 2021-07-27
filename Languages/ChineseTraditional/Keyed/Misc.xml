@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <QRY_Quarry>採石場</QRY_Quarry>
+  <QRY_SettingsDepletionPercent>一個採石場可以開采的次數</QRY_SettingsDepletionPercent>
+  <QRY_SettingsJunkChance>失敗機率(包括產出石塊): &lt;b&gt;&lt;color=orange&gt;{0}%&lt;/color&gt;&lt;/b&gt;</QRY_SettingsJunkChance>
+  <QRY_SettingsChunkChance>產出石塊的機率: &lt;b&gt;&lt;color=orange&gt;{0}%&lt;/color&gt;&lt;/b&gt;</QRY_SettingsChunkChance>
+  <QRY_DepletionLabel>&lt;b&gt;&lt;color=orange&gt;{0}&lt;/color&gt;&lt;/b&gt; 次開礦後採礦場將枯竭</QRY_DepletionLabel>
+  <QRY_DictionaryLabel>可採到的東西及機率</QRY_DictionaryLabel>
+
+  <QRY_TooltipLetter>可以回填土壤的信息已經發送過，如果沒有，請關閉此選項，那麼下一次拆除採石場的時候會發送通知</QRY_TooltipLetter>
+  <QRY_TooltipJunkChance>挖掘失敗的機率，失敗後會獲得石塊或什麼都不得到</QRY_TooltipJunkChance>
+  <QRY_TooltipChunkChance>挖掘失敗時產出石塊的機率，若失敗機率為0則無意義</QRY_TooltipChunkChance>
+
+  <QRY_LabelHaulMode>搬運選項</QRY_LabelHaulMode>
+  <QRY_Haul>搬運開采出來的東西</QRY_Haul>
+  <QRY_NotHaul>忽略開采出來的東西</QRY_NotHaul>
+
+  <QRY_LabelMineResources>資源開採模式</QRY_LabelMineResources>
+  <QRY_DescriptionMineResources>當前指定為資源開採模式，單擊以切換為石磚模式</QRY_DescriptionMineResources>
+
+  <QRY_LabelMineBlocks>石磚開採模式</QRY_LabelMineBlocks>
+  <QRY_DescriptionMineBlocks>當前指定為石磚開採模式，單擊以切換為資源模式</QRY_DescriptionMineBlocks>
+
+  <QRY_ReportNotEnoughStone>採石場需要建造在有更多石質地面的地方</QRY_ReportNotEnoughStone>
+  <QRY_InspectQuarryPercent>剩餘礦物</QRY_InspectQuarryPercent>
+  <QRY_CommandSetOwnerDesc>指定這個採石場只能被某些殖民者開採</QRY_CommandSetOwnerDesc>
+  <QRY_ReportGizmoLackingResearch>需要研究切石科技</QRY_ReportGizmoLackingResearch>
+
+  <QRY_TextMote_LargeVein>成功!</QRY_TextMote_LargeVein>
+  <QRY_TextMote_MiningFailed>失敗...</QRY_TextMote_MiningFailed>
+
+  <QRY_LetterSentQuery>已發送過土壤回填信息</QRY_LetterSentQuery>
+  <QRY_LetterLabel>你可以回填土壤</QRY_LetterLabel>
+  <QRY_LetterText>採石場拆除後，你可以指定一名殖民者並使用“回填土壤”命令將這片回填土改造成可用的地形。</QRY_LetterText>
+  <QRY_LabelReclaimSoil>回填土壤</QRY_LabelReclaimSoil>
+  <QRY_DescriptionReclaimSoil>將鬆散的石坑地形恢復為可用的土壤地形</QRY_DescriptionReclaimSoil>
+  <QRY_MessageMustDesignateQuarriedGround>必須置頂採石場解構後留下的地形</QRY_MessageMustDesignateQuarriedGround>
+
+  <QRY_LabelAddThing>添加物品到表中</QRY_LabelAddThing>
+  <QRY_LabelRemoveThing>從表中移除物品</QRY_LabelRemoveThing>
+  <QRY_LabelResetList>重置列表</QRY_LabelResetList>
+
+  <QRY_MessageSinkhole>採石場中運動的岩石傷到了{0}</QRY_MessageSinkhole>
+
+</LanguageData>

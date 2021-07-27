@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <QRY_Quarry.label>開採於</QRY_Quarry.label>
+  <QRY_Quarry.description>一個用於長期挖掘填埋資源的大坑。</QRY_Quarry.description>
+  <QRY_Quarry_Blueprint.label>採石場(藍圖)</QRY_Quarry_Blueprint.label>
+  <QRY_Quarry_Frame.label>採石場(建造中)</QRY_Quarry_Frame.label>
+  <QRY_Quarry_Frame.description>一個用於長期挖掘填埋資源的大坑。</QRY_Quarry_Frame.description>
+
+  <QRY_MiniQuarry.label>迷你採石場</QRY_MiniQuarry.label>
+  <QRY_MiniQuarry.description>一個用於長期挖掘填埋資源的小坑。</QRY_MiniQuarry.description>
+  <QRY_MiniQuarry_Blueprint.label>迷你採石場(藍圖)</QRY_MiniQuarry_Blueprint.label>
+  <QRY_MiniQuarry_Frame.label>迷你採石場(建造中)</QRY_MiniQuarry_Frame.label>
+  <QRY_MiniQuarry_Frame.description>一個用於長期挖掘填埋資源的小坑。</QRY_MiniQuarry_Frame.description>
+
+  <QRY_Platform.label>採石場平台</QRY_Platform.label>
+  <QRY_Platform.description>一個平台採石場工人將把資源運走。必須放在採石場旁邊，最好靠近梯子。採石場只能與一兩個平台相連。</QRY_Platform.description>
+  <QRY_Platform_Blueprint.label>採石場平台(藍圖)</QRY_Platform_Blueprint.label>
+  <QRY_Platform_Frame.label>採石場平台(建造中)</QRY_Platform_Frame.label>
+  <QRY_Platform_Frame.description>一個方便工人臨時堆放資源的平台，必須放置在採石場附近(最好靠近梯子)，一個採石場最多只能和兩個平台鏈接。</QRY_Platform_Frame.description>
+
+
+</LanguageData>
